@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UNIVERSIDAD\\INGENIERIA DE SOFTWARE Y DATOS\\SEMESTRE 7\\BLOQUE 1\\Bases de Datos II\\EA2_Grupo#_ Staging _Jardineria\\ETL_Jardineria_Grupo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EAD093-346B-41E2-B573-A23F5ACB3496}|ETL_Jardineria_Grupo3\\ETL_Jardineria_Grupo3.dtproj|F:\\UNIVERSIDAD\\INGENIERIA DE SOFTWARE Y DATOS\\SEMESTRE 7\\BLOQUE 1\\Bases de Datos II\\EA2_Grupo#_ Staging _Jardineria\\ETL_Jardineria_Grupo3\\ETL_Jardineria_Grupo3\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{12EAD093-346B-41E2-B573-A23F5ACB3496}|ETL_Jardineria_Grupo3\\ETL_Jardineria_Grupo3.dtproj|solutionrelative:ETL_Jardineria_Grupo3\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\UNIVERSIDAD\\INGENIERIA DE SOFTWARE Y DATOS\\SEMESTRE 7\\BLOQUE 1\\Bases de Datos II\\EA2_Grupo#_ Staging _Jardineria\\ETL_Jardineria_Grupo3\\ETL_Jardineria_Grupo3\\Package.dtsx",
+              "RelativeDocumentMoniker": "ETL_Jardineria_Grupo3\\Package.dtsx",
+              "ToolTip": "F:\\UNIVERSIDAD\\INGENIERIA DE SOFTWARE Y DATOS\\SEMESTRE 7\\BLOQUE 1\\Bases de Datos II\\EA2_Grupo#_ Staging _Jardineria\\ETL_Jardineria_Grupo3\\ETL_Jardineria_Grupo3\\Package.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Jardineria_Grupo3\\Package.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-24T03:08:38.093Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
